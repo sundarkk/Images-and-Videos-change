@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sinfo</string>
+    <string name="Enter_time">Enter time</string>
+    <string name="current_out_time">Current out time</string>
+    <string name="in_time">In time</string>
+    <string name="out_time">Out time</string>
+    <string name="total_time">Total time</string>
+    <string name="nysun">Welcome Nusyn Digital Solutions Private Limited</string>
+    <string name="com_url">https://www.nusyndigital.com/</string>
+
+</resources>

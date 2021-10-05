@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFF</color>
+    <color name="rejected_color">#F63C44</color>
+    <color name="resend_color">#056cb9</color>
+    <color name="higlight_color">#0087eb</color>
+    <color name="new_light_sky_blue">#C176CDF8</color>
+    <color name="silver_black">#F5F5F6</color>
+    <color name="transparent_gray">#8F484F56</color>
+</resources>
